@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "first backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscar-academlo/nodejs.git"
+  },
+  "author": "Oscar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscar-academlo/nodejs/issues"
+  },
+  "homepage": "https://github.com/oscar-academlo/nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
